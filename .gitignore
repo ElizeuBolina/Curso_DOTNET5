@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CadastroAPI/bin/Debug/net5.0
+/CadastroAPI/.vs/CadastroAPI/v15/Server/sqlite3
+/CadastroAPI/obj
+/CadastroClient/bin/Debug/net5.0
+/CadastroClient/obj
